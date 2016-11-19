@@ -11,6 +11,8 @@
     tools:context="com.example.tuandoanhust.lession4.MainActivity">
 
     <TextView
+        android:textColor="@color/Green"
+        android:textSize="@dimen/Text_Size"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
